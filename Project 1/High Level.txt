@@ -1,0 +1,37 @@
+File Processor:
+1. get line from line operations of user input from CLI
+2. split at the operator to get the two numbers in operation
+3. split the two numbers into each of their own arrays of ints (to use later to add one by one into linked lists for adding)
+
+BigNumArithmetic:
+1. get hashmap from file processor
+2. use method from linkedlist class to create two linkedlists
+3. reverse arrays in order to add easier
+4. have add, mult, and exp methods to do operations on linked list numbers
+5. print results
+
+LinkedList:
+1. construct linked list
+2. append method
+
+Node:
+1. nodes used in linked list
+
+
+TESTING:
+File Processor:
+getfirstandsecondnum()
+
+BigNumArithmetic:
+1. get hashmap from file processor
+2. use method from linkedlist class to create two linkedlists
+3. reverse arrays in order to add easier
+4. have add, mult, and exp methods to do operations on linked list numbers
+5. print results
+
+LinkedList:
+1. construct linked list
+2. append method
+
+Node:
+1. nodes used in linked list
